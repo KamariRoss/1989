@@ -101,7 +101,7 @@ const App = () => {
           </li> */}
         </ul>
       </article>
-      <footer> Because every year sucks I guess</footer>
+      <footer> Love 1989! </footer>
     </div>
   )
 }
